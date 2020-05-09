@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="643408e3-69e1-4374-8e37-a5bd078bf455" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/otica/static/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otica/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otica/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otica/templates/store1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otica/templates/store2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otica/templates/store3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loja1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/loja1/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loja1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/loja1/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/otica/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/otica/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/otica/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/otica/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otica/templates/comdex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/otica/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/otica/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otica/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/otica/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otica/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/otica/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +54,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ba0n2j36laOXcntqty8rVKQBRQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +78,22 @@
       <updated>1588855061233</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1500" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588929870582">
