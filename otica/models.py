@@ -4,6 +4,8 @@ class Product(models.Model):
     name = models.CharField('name', max_length=100)
     price = models.DecimalField('price', decimal_places=2, max_digits=7)
     amount = models.IntegerField('amount')
+    def __str__(self):
+        return self.nome
 
 class Client(models.Model):
     name = models.CharField('name', max_length=100)

@@ -7,3 +7,14 @@ def index(request):
 
 def contact(request):
     return render(request,'contact.html')
+
+def store1(request):
+    return render(request,'store1.html')
+
+def store2(request):
+    return render(request,'store2.html')
+
+def store3(request):
+    return render(request,'store3.html')
+
+
